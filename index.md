@@ -9,8 +9,7 @@ Hi! Welcome to my **Webpage**. Take a look into my life as a *programmer* and as
 ![UCSD CSE](https://cseweb.ucsd.edu/classes/fa15/cse110-a/cselogo.jpg)
 ![Jacob's School of Engineering](https://www.lovestemsd.org/sites/default/files/styles/sponsor-logo-290-gold/public/UCSDLogo_JSOE_BlueGold.png?itok=F00itvcj)
 
-This is my read-me:
-[Read-Me](README.md)
+
 
 ### About Me!
 
@@ -34,6 +33,9 @@ I am well-versed in plethora of programming languages including:
 - Python
 - C/C++
 - MATLAB
+
+Click this relative link to see what my favorite programming language is:
+[Read-Me](README.md)
 
 ### Courses I'm Taking
 
