@@ -24,6 +24,13 @@ Being active is a **must** when it comes to balancing a healthy life style! Here
 
 ### My Experience
 
+I am well-versed in plethora of programming languages including:
+
+- Java/JavaScript
+- Python
+- C/C++
+- MATLAB
+
 ### Courses I'm Taking
 
 This quarter I am taking the following classes:
