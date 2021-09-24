@@ -10,12 +10,22 @@ Hi! Welcome to my **Webpage**. Take a look into my life as a *programmer* and as
 
 ### About Me!
 
-I am from the sunny city of Eastvale, California a beautiful suburban town. I'm highly passionate with anything tech related, and I love spending my free time reading, tackling side projects, and competing in coding competitions. Here are some of Google's coding competitions if you are interested: 
+I am from the sunny city of Eastvale, California a beautiful suburban town. I'm highly passionate with anything tech related, and I love spending my free time reading, tackling side projects, and competing in coding competitions. Here are some of *Google's coding competitions* if you are interested: 
 
 [Google's Coding Competitions!](https://codingcompetitions.withgoogle.com/)
 
-I also enjoy working out and playing tennis recreationally.
+Being active is a **must** when it comes to balancing a healthy life style! Here are some activities I love partaking in:
+
+- Weight Lifting
+- Tennis
+- Cycling
+- Swimming
+- Hiking
 
 ### My Experience
 
-### Courses Completed (Do lists here)
+### Courses Completed 
+
+I have taken the following courses at the University of California San Diego:
+
+  
