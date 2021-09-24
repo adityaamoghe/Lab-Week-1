@@ -48,9 +48,9 @@ class Hello {
 
 If you have looked through this webpage you can check off the following:
 
-- [x] TEsst
-- [ ] TEst
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Test 1
+- [ ] Test 2
+- [ ] Test 3
 
 
   
