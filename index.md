@@ -32,4 +32,8 @@ This quarter I am taking the following classes:
 2. Electical Engineering - Linear Systems
 3. Computer Architecture Software 
 
+### Java Sample Code
+
+If you are new to programming here is a simple way to print "Hello World!".
+
   
