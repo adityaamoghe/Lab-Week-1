@@ -34,6 +34,15 @@ This quarter I am taking the following classes:
 
 ### Java Sample Code
 
-If you are new to programming here is a simple way to print "Hello World!".
+If you are new to programming here is a simple way to print "Hello World!" in JAVA:
+
+```
+class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+    }
+}
+```
+
 
   
