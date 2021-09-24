@@ -15,7 +15,7 @@ Hi! My name is Aditya Moghe and I am a a third year computer engineering student
 
 [Google's Coding Competitions!](https://codingcompetitions.withgoogle.com/)
 
-Being active is a **must** when it comes to balancing a healthy life style! Here are some activities I love partaking in:
+Being active is a **must** when it comes to balancing a healthy life style! Here are some activities I love partaking in:  
 
 - Weight Lifting
 - Tennis
