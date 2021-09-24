@@ -6,8 +6,7 @@ Hi! Welcome to my **Webpage**. Take a look into my life as a *programmer* and as
 > knowledge is limited, whereas imagination embraces the entire
 > world, stimulating progress, giving birth to evolution.
 
-If you wish to move to the bottom of the page click [here](#Thanks for Visiting!)!
-
+![UCSD CSE](https://cseweb.ucsd.edu/classes/fa15/cse110-a/cselogo.jpg)
 
 ### About Me!
 
