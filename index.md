@@ -10,7 +10,7 @@ Hi! Welcome to my **Webpage**. Take a look into my life as a *programmer* and as
 
 ### About Me!
 
-Hi! My name is Aditya Moghe and I am a a third year computer engineering student at the University of California San Diego. I am from the sunny city of Eastvale, California. I'm highly passionate with anything tech related, and I love spending my free time reading, tackling side projects, and competing in coding competitions. Here are some of *Google's coding competitions* if you're interested: 
+Hi! My name is Aditya Moghe and I am a a third year computer engineering student at the University of California San Diego. I am from the sunny city of Eastvale, California. I'm highly passionate with anything tech related, and I love spending my free time reading, tackling side projects, and competing in coding competitions. Here are some of *Google's coding competitions* if you are interested: 
 
 [Google's Coding Competitions!](https://codingcompetitions.withgoogle.com/)
 
