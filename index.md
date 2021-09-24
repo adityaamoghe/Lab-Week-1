@@ -48,9 +48,10 @@ class Hello {
 
 If you have looked through this webpage you can check off the following:
 
-- [x] Test 1
-- [ ] Test 2
-- [ ] Test 3
+- [ ] About Me
+- [ ] My Experience
+- [ ] Courses I'm Taking
+- [ ] Java Sample Code
 
 
   
