@@ -7,7 +7,7 @@ Hi! Welcome to my **Webpage**. Take a look into my life as a *programmer* and as
 > world, stimulating progress, giving birth to evolution.
 
 ![UCSD CSE](https://cseweb.ucsd.edu/classes/fa15/cse110-a/cselogo.jpg)
-![Jacob's School of Engineering](https://xiltrix.com/wp-content/uploads/2018/02/UCSD-Jacobs-School-of-Engineering.jpg)
+![Jacob's School of Engineering](https://www.lovestemsd.org/sites/default/files/styles/sponsor-logo-290-gold/public/UCSDLogo_JSOE_BlueGold.png?itok=F00itvcj)
 
 ### About Me!
 
