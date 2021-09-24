@@ -1,5 +1,5 @@
 # Welcome to Aditya's Webpage
 
-## CSE 110 is fun!
+## This is a Heading!
 
-### LAB 1 - Week 1
+### This is another Heading!!
