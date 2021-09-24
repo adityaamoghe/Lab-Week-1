@@ -9,7 +9,7 @@ Hi! Welcome to my **Webpage**. Take a look into my life as a *programmer* and as
 ![UCSD CSE](https://cseweb.ucsd.edu/classes/fa15/cse110-a/cselogo.jpg)
 ![Jacob's School of Engineering](https://www.lovestemsd.org/sites/default/files/styles/sponsor-logo-290-gold/public/UCSDLogo_JSOE_BlueGold.png?itok=F00itvcj)
 
-[Section Link](#my-experience)
+[Click this section Link to go to the bottom of my Webpage!](#thanks-for-visiting)
 
 ### About Me!
 
