@@ -34,7 +34,7 @@ This quarter I am taking the following classes:
 
 ### Java Sample Code
 
-If you are new to programming here is a simple way to print "Hello World!" in JAVA:
+If you are new to programming here is a simple way to print "Hello World!" in Java:
 
 ```
 class Hello {
@@ -43,6 +43,14 @@ class Hello {
     }
 }
 ```
+
+### Thanks for Visiting!
+
+If you have looked through this webpage you can check off the following:
+
+- [x] TEsst
+- [ ] TEst
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
   
